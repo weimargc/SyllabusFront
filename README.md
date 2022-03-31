@@ -4,10 +4,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 **For upgrade instruction please refer to [https://update.angular.io/](https://update.angular.io/).**
 
+## Install Yarn global
+Run `npm install --global yarn`
+
 ## Install dependencies
 
 Run `yarn install`.
 **Do NOT use NPM!**
+
+## Si al instalar sale error de Git protocolo 9847 ejecutar comando
+Run `git config --global url."https://".insteadOf git://`
 
 ## Development server
 
