@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 **For upgrade instruction please refer to [https://update.angular.io/](https://update.angular.io/).**
 
-## Install Yarn global
+## Install Yarn global.
 Run `npm install --global yarn`
 
 ## Install dependencies
