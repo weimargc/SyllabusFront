@@ -12,10 +12,10 @@ Run `npm install --global yarn`
 Run `yarn install`.
 **Do NOT use NPM!**
 
-## Si al instalar sale error de Git protocolo 9847 ejecutar comando
+## If the message "The unauthenticated git protocol on port 9418 is no longer supported" appears when installing, run the command
 Run `git config --global url."https://".insteadOf git://`
 
-## Development server
+# Development server
 
 Run `yarn start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
